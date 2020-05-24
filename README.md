@@ -1,2 +1,2 @@
-# tree_data_structure
-Python Programming Homework
+# Tic Tac Toe Game
+Python Programming Homework based on Tree Data Structure
